@@ -24,3 +24,8 @@
 1.Problem Statement-Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 
 2.Data-: https://www.kaggle.com/aaron7sun/stocknews
+
+#Task5-SUPERMARKET DATA ANALYSIS
+1.Problem Statement-As a business manager, try to find out the weak areas where you can work to make more profit. What all business problems you can derive by exploring the data?
+
+2.Data-: https://bit.ly/3i4rbWl
